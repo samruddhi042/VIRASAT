@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+venv311/
+*.egg-info/
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Data
+data/heritage_sites.json
+
+# Neo4j
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
