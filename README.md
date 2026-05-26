@@ -323,7 +323,3 @@ The NLP pipeline (`scripts/nlp_pipeline.py` and `backend/routers/scraper.py`) ru
 | DevOps | Docker, Docker Compose, Nginx |
 
 ---
-
-## 📄 License
-
-MIT © 2024 Virasat Project
